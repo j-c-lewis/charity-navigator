@@ -21,6 +21,7 @@ const Navbar = (props) => {
                 </ul>
             </div>
         </div>
+
     )
 }
 
